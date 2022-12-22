@@ -1,0 +1,203 @@
+
+/* start frist div */
+.frist
+{
+    margin: 90px 95px;
+    padding: 30px 30px;
+    border: 1px solid  #606770;
+    font-size: 19px;
+    color: #606770;
+}
+.frist a
+{
+    text-decoration: none;
+    color: blueviolet;
+}
+/* end frist div */
+/* <!--  sec1 --> */
+.sec11
+{
+    display: flex;
+    margin: 90px 95px;
+}
+.left
+ {
+    width: 600px;
+    margin-right: 90px;
+ }
+ .left form{
+    margin-top: 20px;
+ }
+
+fieldset
+{   
+    padding: 40px;
+    font-size: 20px;
+    border: 1px solid #777;
+}
+label span
+{
+    color: red;
+    font-size: 20px;
+}
+
+.left fieldset label
+{
+    padding: 10px 0;
+
+}
+.select1
+{
+    margin-top: 10px;
+    padding: 5px 370px 5px 5px;
+    color: #606770;
+    border-radius: 5px;
+    font-size: 15px;
+    border: 1px solid #606770;;
+}
+.label2
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.label2 input
+{
+    padding: 4px;
+    border-radius: 5px;
+    border-color:  #606770;
+    margin-top: 10px;
+    border: 1px solid #606770;;
+    margin-right: 60px;
+
+}
+.label3
+{
+    margin-top: 25px;
+}
+.label3 label
+{
+    padding-top: 10px;
+}
+.label3 input
+{
+    padding: 5px 320px 5px 5px;
+    border-radius: 5px;
+    font-size: 15px; 
+    border: 1px solid #606770;;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+
+.check
+{
+    margin-top: 20px;
+}
+
+.textarea
+{
+    margin-top: 20px;
+}
+.textarea textarea
+{
+    padding: 8px;
+    font-size: 15px;
+}
+
+/* end left fom */
+/* start right form */
+.right
+{
+    width: 600px;
+}
+.rightone
+{
+    padding: 40px 60px;
+    margin-top: 20px;
+    border: 1px solid  #777;
+    font-size: 19px;
+    color: #777;  
+    margin-bottom: 10px;
+}
+.rightone input
+{
+    margin-top: 10px;
+    padding:15px 20px;
+    font-size: 15px;
+    border: 1px solid #777;
+    border-radius: 0px;
+}
+.rightone button
+{
+    padding: 15px 20px;
+    font-size: 15px;
+    background-color: blueviolet;
+    color: white;
+    right: 16px;
+    position: relative;
+    cursor: pointer;
+    border: none;
+}
+
+
+.right fieldset .one
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px  90px 10px 20px;
+}
+.right fieldset 
+{
+    margin-top: 10px;
+}
+ .aa
+{
+    border: 1px solid;
+    margin: 20px;
+    margin-top: 30px;
+    padding: 12px;
+    border-radius: 5px;
+    font-size: 19px;
+    border: 1px solid #606770;
+
+}
+.aa .a11{
+    text-decoration: none;
+    color: blueviolet;
+    background: none;
+
+}
+.aa2
+{
+    margin: 10px;
+    margin-bottom: 15px;
+    padding: 12px;
+    text-align: center;
+}
+.aa3 {
+    margin-right: -26px;
+}
+
+.contact1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 90px;
+}
+/* CONTACT */
+.contact1 i{
+    color: green;
+    font-size: 50px;
+    padding: 10px;
+}
+.contact1 h1
+{
+    font-size: 50px;
+}
+.contact1 p
+{
+    padding: 10px;
+}
